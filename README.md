@@ -1,3 +1,10 @@
+# Zadania z HTML, CSS i JavaScript
+
+🔥 Wykonaj zadania i zrób **pull request**, aby wziąć udział w losowaniu darmowego **code review**. Śledź informacje o wygranej na stronie FB: https://www.facebook.com/devmentorpl.
+
+
+ &nbsp;
+ 
 **JavaScript: Narzędzia**
 
 #01 https://github.com/devmentor-pl/practice-js-tools
